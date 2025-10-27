@@ -1,0 +1,497 @@
+,Time taken,Gender,Education,Age,Ethnicity,Student status,Employment status,survey_duration,s_mental_demand,s_temporal_demand,s_effort,s_frustration,search_freq,info_navigation,search_engine,citation_design,source_reliability
+66bbafb05de7e549455aa4ff,755.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),46,White,No,Full-Time,35,2.0,1.0,3.0,1.0,1,0,google_search,icon,original
+5b70d5cf48302c0001ba0771,828.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,63,White,No,Full-Time,82,2.0,2.0,3.0,1.0,1,0,google_search,domain,original
+631f8164145b26de1567f040,459.0,Non-binary (would like to give more detail),Undergraduate degree (BA/BSc/other),38,White,No,Full-Time,34,2.0,2.0,2.0,1.0,1,4,google_search,number,high_reliability
+5c8c22bafeeaeb0016207a00,485.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),28,White,No,Part-Time,34,3.0,1.0,3.0,2.0,1,0,google_search,domain,high_reliability
+642aff87ea9fb23585fc5ee3,446.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),37,White,Yes,Full-Time,36,3.0,4.0,4.0,1.0,1,0,google_search,number,low_reliability
+67181a55422d48f5727f08ec,872.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),35,Black,Yes,Full-Time,75,3.0,3.0,3.0,2.0,1,1,google_search,domain,low_reliability
+6175c5e3f8c378f922c7c7bd,1044.0,Man (including Trans Male/Trans Man),Technical/community college,47,White,No,Part-Time,70,1.0,2.0,2.0,1.0,1,0,bing,domain,original
+5bb7b83ab791890001f4fd90,368.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,57,White,No,Part-Time,37,3.0,2.0,3.0,1.0,1,0,google_search,icon,high_reliability
+613f0ce7ced87b6731521401,494.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),46,Mixed,No,Full-Time,37,1.0,1.0,1.0,1.0,2,1,google_search,domain,high_reliability
+5c81582c4c1a61000155584f,569.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,49,Black,No,Unemployed (and job seeking),67,2.0,2.0,3.0,1.0,2,0,google_search,domain,high_reliability
+5c5d36bc034e280001644c3b,476.0,Woman (including Trans Female/Trans Woman),Technical/community college,57,Asian,No,Full-Time,77,1.0,2.0,3.0,1.0,1,0,google_search,domain,original
+5b2bcfb51835660001cc6751,774.0,Woman (including Trans Female/Trans Woman),Technical/community college,44,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",60,5.0,2.0,4.0,2.0,1,2,google_search,number,low_reliability
+611f672bc947518ca8b25524,312.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),34,White,DATA_EXPIRED,Full-Time,33,2.0,2.0,2.0,2.0,2,0,google_search,icon,original
+66958688126ae60131512012,267.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,38,White,No,Part-Time,57,2.0,1.0,3.0,1.0,3,0,google_search,domain,original
+64e728d622e7a6404613c94f,232.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),27,Asian,No,Part-Time,30,2.0,2.0,1.0,2.0,1,2,google_search,icon,original
+572bcdbb34b25a0010ddd977,996.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),50,White,No,Full-Time,59,3.0,2.0,3.0,2.0,1,2,google_search,icon,original
+66099d3fa3579e4e79fa013c,874.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),59,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",77,3.0,3.0,4.0,2.0,1,0,google_search,icon,low_reliability
+601c277aabe00c6bc759bf69,419.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),29,White,No,Full-Time,37,2.0,2.0,3.0,1.0,1,2,google_search,number,high_reliability
+642b083df2d7cd6133db4899,434.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),26,White,No,Due to start a new job within the next month,95,1.0,1.0,1.0,1.0,1,0,google_search,number,low_reliability
+62f139df1b6d62fa1dafe8e0,349.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,31,White,No,Full-Time,34,2.0,1.0,1.0,1.0,1,2,google_search,icon,low_reliability
+681f421f57f106703aeaf6e8,1195.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),57,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",309,2.0,1.0,2.0,1.0,1,0,google_search,number,high_reliability
+63e55ab8223fe6129765e841,600.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),46,White,No,Full-Time,57,2.0,2.0,2.0,1.0,1,0,google_search,number,low_reliability
+66799043863669170269eedf,518.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),52,White,No,Full-Time,74,2.0,2.0,3.0,1.0,1,3,google_search,number,low_reliability
+5f649a5cd14d460266092062,631.0,Man (including Trans Male/Trans Man),Technical/community college,57,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",59,3.0,3.0,3.0,3.0,1,1,duckduckgo,number,low_reliability
+5f75d01a857e4e27a575f7ca,665.0,Woman (including Trans Female/Trans Woman),Technical/community college,44,White,No,Full-Time,44,3.0,3.0,3.0,2.0,1,0,google_search,icon,high_reliability
+67658f846b70c135b89d2949,721.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),24,Black,Yes,Full-Time,117,2.0,1.0,3.0,2.0,1,0,google_search,icon,low_reliability
+66f4a91ab3891338de6e6107,330.0,Woman (including Trans Female/Trans Woman),Technical/community college,59,White,No,Part-Time,38,2.0,3.0,3.0,1.0,1,1,google_search,number,high_reliability
+5b52f4933234ab00014ca442,1064.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),29,White,No,Other,137,3.0,2.0,3.0,2.0,1,0,google_search,number,low_reliability
+66358d404b95112d53513391,1242.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),60,White,No,Full-Time,64,3.0,3.0,4.0,2.0,1,0,duckduckgo,icon,low_reliability
+5bf1de1556a321000106fae0,900.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),54,White,No,Full-Time,98,2.0,3.0,3.0,1.0,1,0,google_search,number,high_reliability
+6571fd9d691befe21fa61d18,373.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),55,White,No,Full-Time,112,1.0,1.0,3.0,1.0,1,1,duckduckgo,icon,original
+5d45d2c3b30ae50001578172,1697.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),45,Black,No,Full-Time,676,4.0,2.0,2.0,2.0,1,1,google_search,number,high_reliability
+5bfb200269fe300001e88ffe,402.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),33,White,No,Full-Time,27,1.0,1.0,2.0,1.0,1,1,google_search,number,original
+5db21a3cad248e000dae8bc2,762.0,Non-binary (would like to give more detail),Graduate degree (MA/MSc/MPhil/other),36,White,No,Full-Time,56,3.0,3.0,3.0,1.0,1,0,google_search,domain,low_reliability
+63de85109c483ddf2670c7f8,1162.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,53,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",145,1.0,1.0,2.0,2.0,1,0,google_search,icon,high_reliability
+5e8f8ebc09b58f28c329da6f,307.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),35,White,No,Full-Time,43,2.0,2.0,3.0,1.0,2,1,google_search,domain,original
+673dbbee9983e0d8084c8a76,1125.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),69,White,No,Part-Time,77,2.0,2.0,2.0,1.0,1,0,google_search,domain,original
+65424b6510550ea538d0bca4,623.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),50,White,No,Full-Time,61,2.0,3.0,3.0,1.0,1,0,google_search,icon,original
+5a44d679f7b7bc00014e020e,841.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,45,White,DATA_EXPIRED,Full-Time,138,2.0,2.0,3.0,1.0,1,2,duckduckgo,number,high_reliability
+5e6a6d1f833f2d021f683ea7,531.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,43,White,No,Full-Time,25,3.0,2.0,3.0,1.0,2,2,google_search,icon,high_reliability
+5f1301b0bbe07d00090dd94a,244.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),37,White,No,Full-Time,39,1.0,1.0,1.0,1.0,1,0,google_search,icon,high_reliability
+65599c698363f734b0325aa2,324.0,Man (including Trans Male/Trans Man),Technical/community college,43,White,Yes,Unemployed (and job seeking),63,2.0,4.0,2.0,3.0,1,1,google_search,number,high_reliability
+5bbbf217a83521000173d9df,643.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),33,White,No,Unemployed (and job seeking),31,3.0,2.0,4.0,3.0,1,0,google_search,domain,low_reliability
+680cd016b488c57ebb6a8451,438.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),57,Mixed,No,Full-Time,39,1.0,1.0,1.0,1.0,1,2,google_search,number,low_reliability
+5d0b8c25778f7a001b922e6d,614.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),40,White,No,Full-Time,35,3.0,2.0,2.0,2.0,1,1,google_search,domain,high_reliability
+5b9ca13a06114100010699b8,344.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,44,White,No,Full-Time,69,2.0,2.0,3.0,1.0,1,3,google_search,number,low_reliability
+669aa678bee50f1a83b7d2a7,909.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),41,White,No,Full-Time,106,2.0,3.0,3.0,4.0,2,3,google_search,icon,original
+601fd27860b197531ca7bdcc,568.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),36,White,No,Full-Time,62,3.0,1.0,4.0,2.0,1,0,google_search,number,low_reliability
+5ea60beb07183a615a30a2d4,268.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,23,White,No,Part-Time,29,2.0,2.0,2.0,1.0,1,2,google_search,icon,high_reliability
+67293edc2ff48428040a39a5,803.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,46,White,No,Full-Time,55,3.0,2.0,3.0,2.0,1,4,google_search,number,original
+64007622a1b9dbf7a50405cb,625.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,67,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",53,2.0,1.0,3.0,1.0,1,3,google_search,domain,high_reliability
+6162e2edc9c72d9868385779,451.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),24,White,No,Full-Time,42,1.0,2.0,1.0,1.0,2,3,google_search,domain,high_reliability
+5c3f9ae8ef1d0d0001b2d5e4,656.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),36,White,No,Full-Time,90,1.0,1.0,3.0,1.0,1,0,google_search,number,high_reliability
+6575c7da000442e5a54f5e24,590.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,29,White,Yes,Full-Time,26,3.0,1.0,4.0,1.0,1,0,google_search,number,high_reliability
+5a6725d4c0d836000107f6e7,845.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),54,White,No,Full-Time,130,3.0,2.0,3.0,2.0,1,2,google_search,domain,high_reliability
+5f6f2da91b5cc64887afd65d,819.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),60,White,No,Other,103,3.0,3.0,4.0,5.0,1,1,google_search,number,high_reliability
+56b6e889f2fc70000b32f99e,493.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),54,White,No,Full-Time,109,3.0,2.0,3.0,4.0,2,2,google_search,icon,low_reliability
+5d116937bc8f96000168b8fc,388.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),49,White,Yes,Full-Time,31,3.0,2.0,3.0,1.0,1,2,google_search,icon,high_reliability
+5eaae0b28ba2df0570296c3a,407.0,Man (including Trans Male/Trans Man),Technical/community college,45,White,No,Full-Time,24,3.0,2.0,4.0,1.0,1,1,google_search,number,high_reliability
+5cfde288bab656000198b943,571.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),54,White,No,Part-Time,47,3.0,2.0,3.0,2.0,3,1,google_search,number,low_reliability
+5ee9c1405f0f48365179916d,312.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),40,White,No,Full-Time,23,1.0,1.0,1.0,1.0,1,0,google_search,domain,original
+60f8658bf9d1627d3bc87a3d,374.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),34,White,No,Full-Time,56,2.0,2.0,4.0,2.0,1,0,google_search,icon,high_reliability
+568a3ac1d3d6a7000ba240b0,1329.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,44,White,No,Full-Time,86,3.0,2.0,4.0,2.0,1,0,google_search,icon,original
+59a7cfeb7ff2320001ec59d9,336.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),56,Mixed,DATA_EXPIRED,Full-Time,41,3.0,3.0,3.0,1.0,1,0,google_search,icon,original
+67d89d92eb4323537c13b656,467.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),58,White,No,Part-Time,93,1.0,1.0,2.0,1.0,1,0,google_search,number,high_reliability
+5cfb77e325ffc100019a1299,365.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,40,White,No,Full-Time,29,1.0,1.0,2.0,1.0,2,1,duckduckgo,domain,high_reliability
+5ca183e45a47af00013463ab,765.0,Man (including Trans Male/Trans Man),Technical/community college,73,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",111,3.0,3.0,3.0,4.0,2,1,google_search,number,original
+5e57d38b533eec1818078f0b,369.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),26,White,No,Full-Time,39,2.0,2.0,1.0,1.0,2,4,google_search,domain,low_reliability
+5c180a3ac59c17000167491e,273.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),37,White,No,Full-Time,52,2.0,2.0,2.0,1.0,1,1,google_search,domain,original
+67729663b5b14e7a05619f4d,1686.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),39,Black,No,Full-Time,133,3.0,4.0,2.0,1.0,1,0,google_search,number,original
+66d90776467f07112fb54bfc,1217.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),47,Black,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",60,3.0,2.0,2.0,1.0,1,0,google_search,domain,low_reliability
+5c4b987538878c0001c7883b,492.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),30,White,No,Full-Time,30,3.0,3.0,4.0,4.0,1,4,google_search,icon,low_reliability
+6725c4a8e3ab0787551acf38,1479.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),65,White,No,Part-Time,63,4.0,3.0,4.0,4.0,1,1,google_search,domain,high_reliability
+671038fb26ff82aa6081d040,889.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),56,White,No,Unemployed (and job seeking),115,3.0,2.0,3.0,2.0,1,3,google_search,domain,original
+5c5ab384e7f42600017cdc27,533.0,Woman (including Trans Female/Trans Woman),Technical/community college,47,White,Yes,Full-Time,28,2.0,2.0,2.0,1.0,1,2,google_search,number,low_reliability
+5d9e1879071026001417e150,614.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,34,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",52,3.0,3.0,4.0,4.0,2,0,google_search,number,low_reliability
+6765fec6bede906e82a3022d,1169.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),48,Black,No,Part-Time,113,3.0,2.0,3.0,1.0,1,0,google_search,domain,high_reliability
+5a47473899311d0001df550e,417.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,42,White,No,Full-Time,29,2.0,2.0,2.0,2.0,1,0,google_search,domain,original
+5e9fd8c26fae5918240e617e,461.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),84,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",67,2.0,3.0,1.0,1.0,3,1,duckduckgo,domain,high_reliability
+56158fc67ffc8a0012812589,642.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),61,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",50,3.0,2.0,4.0,1.0,1,1,google_search,domain,low_reliability
+611218c29a454f84484df681,524.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),35,White,No,Full-Time,36,3.0,2.0,3.0,1.0,1,1,google_search,domain,high_reliability
+65aea1ad4ec9136d74dc5095,317.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),46,White,No,Full-Time,35,3.0,3.0,2.0,2.0,1,2,google_search,domain,low_reliability
+66097284b44bdd99ae430bf1,783.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),62,White,No,Other,103,3.0,2.0,3.0,1.0,1,2,google_search,number,high_reliability
+63d076d846d3d9dc35910778,782.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),42,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",53,2.0,1.0,2.0,1.0,1,0,google_search,number,high_reliability
+66a52f6c1eb3824340fcaebc,309.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),31,Black,Yes,Part-Time,33,3.0,3.0,3.0,3.0,1,2,google_search,icon,low_reliability
+6658b3d15669d166e3c15634,230.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,43,White,No,Full-Time,48,2.0,2.0,2.0,2.0,1,4,google_search,number,high_reliability
+6662167b0dead2fa51dfdfc3,454.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,31,White,No,Full-Time,74,1.0,3.0,2.0,1.0,2,0,google_search,domain,low_reliability
+5ef1bb10c673fd7d2d14e439,519.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),43,White,No,Part-Time,42,3.0,3.0,3.0,2.0,1,0,google_search,domain,high_reliability
+63f77dc98bfabd95812edc2c,377.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,38,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",67,4.0,1.0,4.0,1.0,1,0,google_search,icon,original
+6086c333d6eb73cfdd564e90,346.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),72,White,No,Full-Time,54,2.0,2.0,3.0,1.0,1,0,duckduckgo,domain,high_reliability
+63de656828b28434f3ed4808,325.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),29,Mixed,No,Full-Time,33,2.0,2.0,4.0,1.0,1,0,google_search,number,original
+60ed501279c68ea1a313d0aa,686.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),61,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",95,2.0,2.0,3.0,1.0,1,0,google_search,number,original
+58b5a090ddf4e000019336f3,244.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),46,White,No,Full-Time,35,2.0,2.0,2.0,2.0,1,0,google_search,number,low_reliability
+6744ee51acef821062689550,244.0,Woman (including Trans Female/Trans Woman),Technical/community college,33,White,No,Full-Time,45,2.0,2.0,2.0,1.0,2,1,google_search,domain,original
+60a2c2e3edac0531b3b0af44,292.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),45,White,No,Full-Time,47,2.0,2.0,2.0,1.0,1,0,google_search,icon,high_reliability
+666445e5b72745f04a4f57d6,499.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,53,White,No,Full-Time,63,2.0,2.0,3.0,1.0,1,1,google_search,icon,low_reliability
+570570eb61ab6a0010d484d0,572.0,Man (including Trans Male/Trans Man),Technical/community college,51,White,No,Full-Time,95,3.0,2.0,1.0,1.0,1,1,google_search,icon,low_reliability
+5abf31f8436f550001ffa822,417.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),58,White,No,Part-Time,51,3.0,2.0,3.0,2.0,3,0,google_search,number,low_reliability
+63eb35e9e47f009483e1eedb,705.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),40,White,No,Full-Time,69,1.0,3.0,2.0,1.0,1,2,google_search,domain,original
+676e6f5eb2e5690f74382e58,416.0,Man (including Trans Male/Trans Man),Technical/community college,43,White,No,Full-Time,104,3.0,2.0,3.0,3.0,1,2,google_search,domain,original
+5c69a12bb1b0080001bfca6a,725.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),41,White,No,Full-Time,56,2.0,2.0,3.0,3.0,1,3,google_search,domain,low_reliability
+5edbd2c61d9e420b6b420343,395.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),43,White,No,Full-Time,34,2.0,3.0,3.0,2.0,2,0,google_search,icon,low_reliability
+5c5a98c42032f30001ba94fd,331.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),32,White,No,Full-Time,137,1.0,1.0,3.0,1.0,1,1,google_search,domain,original
+6736a82b51deb41971952db5,783.0,Woman (including Trans Female/Trans Woman),Doctorate degree (PhD/other),41,Black,No,Full-Time,130,3.0,3.0,3.0,1.0,1,1,"Chatgpt, Google scholar",icon,low_reliability
+672d2977ae54935ef84a2b74,497.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),46,White,No,Part-Time,41,3.0,1.0,2.0,1.0,1,0,google_search,icon,original
+5f744d89a37f7b1e74d264a2,464.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),40,White,Yes,Full-Time,25,3.0,2.0,2.0,3.0,1,0,google_search,domain,low_reliability
+67ee50bbaa206db46d5e94c2,2028.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),53,White,No,Part-Time,72,2.0,3.0,3.0,2.0,2,0,google_search,icon,original
+6235d96c087939dba5586d97,448.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),64,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",47,3.0,3.0,3.0,2.0,1,2,google_search,number,original
+677c01679916a0f348104d66,337.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),47,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",42,2.0,1.0,1.0,1.0,1,1,google_search,domain,high_reliability
+615f097035d3a6a38238039b,270.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),61,White,Yes,Full-Time,30,1.0,2.0,1.0,1.0,1,1,google_search,icon,high_reliability
+544e94c4fdf99b50bd30726c,690.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),54,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",62,4.0,3.0,4.0,4.0,1,3,duckduckgo,domain,low_reliability
+665037ded96e1d5ab290e9ca,1042.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,58,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",96,2.0,2.0,2.0,1.0,3,4,google_search,domain,high_reliability
+67895c8702d2c30bde3af96c,381.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),51,White,No,Full-Time,46,2.0,2.0,3.0,2.0,1,0,google_search,domain,low_reliability
+59ff1a23f2e3460001eda6d5,542.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),33,White,Yes,Full-Time,68,2.0,3.0,3.0,1.0,1,1,google_search,icon,original
+65e3387b7c88e9a05fb68d34,1201.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),55,White,No,Part-Time,69,3.0,2.0,3.0,2.0,2,2,google_search,domain,low_reliability
+6658d9826d4ec610f1b0cc33,226.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),26,White,No,Full-Time,52,1.0,1.0,1.0,1.0,2,0,google_search,domain,low_reliability
+5d91e1e72a66dc00195db7dd,463.0,Woman (including Trans Female/Trans Woman),Technical/community college,58,White,No,Full-Time,77,3.0,2.0,3.0,1.0,2,1,google_search,number,high_reliability
+602ac80c6cf22516282a7fd3,291.0,Man (including Trans Male/Trans Man),Doctorate degree (PhD/other),35,White,Yes,Full-Time,29,2.0,2.0,2.0,2.0,1,1,google_search,icon,low_reliability
+5eb9499bcbc2140180e31037,437.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),42,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",41,3.0,2.0,3.0,1.0,1,3,google_search,domain,high_reliability
+57b6dfafe2d5a60001099543,736.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),41,Asian,No,Full-Time,82,2.0,2.0,2.0,1.0,1,0,google_search,number,low_reliability
+6763dc05af46629317e23da3,486.0,Man (including Trans Male/Trans Man),Technical/community college,40,White,No,Full-Time,39,2.0,2.0,3.0,1.0,1,1,google_search,icon,low_reliability
+62d793b216e1b007c88f156f,808.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,50,White,No,Full-Time,40,3.0,2.0,4.0,2.0,1,1,google_search,number,high_reliability
+5f25681567da711e51c043ab,579.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),36,White,No,Full-Time,53,3.0,2.0,3.0,2.0,2,0,google_search,domain,original
+6739c29f10227690e7d1619a,305.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,31,White,DATA_EXPIRED,Full-Time,40,2.0,2.0,2.0,1.0,1,0,google_search,icon,low_reliability
+5a991dd86475f900019fe4b6,651.0,Woman (including Trans Female/Trans Woman),Technical/community college,46,White,No,Part-Time,42,2.0,2.0,3.0,2.0,3,0,google_search,icon,low_reliability
+5a6adef80384310001944ba8,532.0,Man (including Trans Male/Trans Man),No formal qualifications,71,White,DATA_EXPIRED,"Not in paid work (e.g. homemaker', 'retired or disabled)",71,1.0,2.0,1.0,1.0,4,1,any,domain,low_reliability
+59e71a97896cfc0001921899,300.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),60,White,No,Full-Time,44,2.0,2.0,3.0,1.0,1,0,google_search,number,original
+5a6b6b34d5d4cb0001d64b8f,404.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,49,White,No,Part-Time,35,3.0,2.0,4.0,1.0,2,1,google_search,number,low_reliability
+604541676af7216614098dde,495.0,Man (including Trans Male/Trans Man),Technical/community college,42,White,No,Full-Time,40,3.0,2.0,3.0,3.0,3,0,google_search,domain,high_reliability
+5ea00e67848a4300085fa5cd,805.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),66,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",49,2.0,2.0,3.0,1.0,1,2,google_search,icon,low_reliability
+5adc2601dee8590001b01ba1,262.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),44,White,No,Full-Time,33,2.0,2.0,2.0,2.0,1,0,google_search,number,original
+66cdd69d50b73bddd9f40fa1,1306.0,Man (including Trans Male/Trans Man),Technical/community college,82,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",93,2.0,2.0,3.0,1.0,1,2,google_search,domain,original
+669d6e67b980bf3846b82e8f,346.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),32,White,No,Full-Time,42,2.0,3.0,3.0,1.0,1,3,google_search,icon,low_reliability
+659c067de92634488b349626,754.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,20,White,Yes,Part-Time,39,2.0,3.0,3.0,1.0,1,1,google_search,number,original
+669822e8dc9cf1a2a30dc3e5,421.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),33,White,No,Part-Time,35,3.0,3.0,4.0,4.0,1,1,google_search,icon,original
+602fcd044ad77ad42ee9a829,473.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),62,White,No,Part-Time,46,2.0,2.0,4.0,1.0,1,0,google_search,number,low_reliability
+641619d1004de9ef3745c58d,870.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),34,White,No,Part-Time,331,2.0,2.0,2.0,2.0,1,0,google_search,number,original
+6682b776165dbb37552d18c8,1167.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),29,Black,No,Full-Time,67,3.0,2.0,2.0,2.0,1,1,google_search,number,high_reliability
+67d95ba74a13b56b96a1e155,525.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),55,White,No,Full-Time,63,1.0,4.0,1.0,2.0,1,3,google_search,domain,low_reliability
+5e8307bae3b23d01d2259e4c,236.0,Man (including Trans Male/Trans Man),Technical/community college,58,White,No,Full-Time,34,1.0,2.0,2.0,1.0,1,0,google_search,domain,original
+6037d796b948e80ce4afcc09,390.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,23,White,Yes,Due to start a new job within the next month,119,2.0,2.0,2.0,2.0,2,3,google_search,icon,original
+67d0c546e34a839a2c0d67a0,1020.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),54,White,No,Full-Time,32,3.0,2.0,2.0,1.0,1,1,google_search,number,original
+59692f4467a8600001b714e1,358.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,57,White,No,Full-Time,37,2.0,3.0,3.0,2.0,1,1,google_search,number,low_reliability
+5f9adea37534492538642466,494.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),47,White,No,Full-Time,57,1.0,2.0,3.0,1.0,1,1,google_search,icon,high_reliability
+66bdde69417a86ba178f7871,256.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),64,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",63,1.0,3.0,2.0,1.0,1,1,google_search,domain,high_reliability
+5d8a7019508ab200177f4777,273.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),58,White,No,Full-Time,52,2.0,2.0,2.0,2.0,1,0,google_search,number,low_reliability
+5fb8d29daff3bb26b233b979,718.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),64,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",88,3.0,2.0,3.0,2.0,3,4,Startpage,domain,high_reliability
+5d7874252f037f0016637125,728.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),77,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",70,2.0,1.0,3.0,1.0,1,0,google_search,number,low_reliability
+5b49081c03732f000161ef3d,727.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),48,White,No,Full-Time,88,3.0,2.0,3.0,1.0,1,1,google_search,icon,high_reliability
+5ca48653ed23650001328d9d,629.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),45,White,Yes,Full-Time,37,4.0,2.0,4.0,3.0,1,2,Ecosia,number,original
+67e2b6561ccb8f5bb055cc85,594.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),28,White,DATA_EXPIRED,Part-Time,75,3.0,2.0,4.0,2.0,1,1,google_search,domain,original
+665836af1376cc41158dbf5c,635.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),30,Black,No,Unemployed (and job seeking),130,2.0,2.0,2.0,1.0,1,0,google_search,number,low_reliability
+674ae5a1ba7d929b2c1306e5,1746.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),62,White,No,Part-Time,141,3.0,2.0,3.0,2.0,1,2,google_search,domain,high_reliability
+62c5cfc8fc36092bf064a1fc,831.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),45,Black,No,Due to start a new job within the next month,72,3.0,2.0,3.0,2.0,1,0,google_search,number,original
+5defac7e56b506000cdd3b32,373.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,36,Mixed,No,Full-Time,39,2.0,2.0,3.0,1.0,1,0,google_search,domain,original
+6544b6b0048c6646e5bf4db8,618.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),54,White,No,Part-Time,92,5.0,2.0,4.0,3.0,1,3,google_search,number,original
+568e3e02e3ef9e000ca13b18,458.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),38,White,No,Full-Time,33,3.0,3.0,3.0,2.0,1,2,google_search,domain,original
+60314f566c0b9306e3956ebc,441.0,Man (including Trans Male/Trans Man),Technical/community college,55,White,No,Full-Time,38,1.0,2.0,1.0,1.0,1,0,bing,domain,original
+60818798de4cce19f740cb58,270.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),38,White,DATA_EXPIRED,Full-Time,25,3.0,3.0,3.0,2.0,1,1,google_search,domain,low_reliability
+6581a367a62877b8742ec59a,278.0,Man (including Trans Male/Trans Man),Technical/community college,25,White,No,Full-Time,29,1.0,1.0,3.0,1.0,1,0,google_search,number,high_reliability
+597e220e30b1d90001f5f14a,780.0,Woman (including Trans Female/Trans Woman),Technical/community college,33,White,No,Full-Time,44,3.0,2.0,4.0,2.0,1,2,google_search,icon,original
+5788c16f275be600013590a8,817.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),49,White,No,Full-Time,50,3.0,2.0,3.0,2.0,1,1,google_search,domain,high_reliability
+62ead0772116e6bc70b7cd09,469.0,Woman (including Trans Female/Trans Woman),Doctorate degree (PhD/other),54,White,Yes,Due to start a new job within the next month,119,2.0,2.0,3.0,1.0,1,1,google_search,number,original
+5a4698b97a3e3a0001dd564e,292.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,37,White,Yes,Full-Time,25,2.0,2.0,2.0,3.0,1,2,google_search,number,original
+5c7018a5e165d10001e8aed2,353.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),57,White,No,Full-Time,37,2.0,2.0,1.0,2.0,1,1,google_search,icon,low_reliability
+66e9ebc5812d70dd994b6338,462.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),55,White,DATA_EXPIRED,Full-Time,49,3.0,2.0,3.0,2.0,1,2,google_search,domain,low_reliability
+63d13cca81e6d01c11fb0ca5,591.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),43,White,Yes,Full-Time,28,3.0,2.0,2.0,2.0,2,3,google_search,domain,high_reliability
+671961a21d864743f6277a27,650.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,31,White,No,Full-Time,42,1.0,1.0,2.0,1.0,1,3,google_search,icon,low_reliability
+5ff57133a4d824d6e794ab48,269.0,Man (including Trans Male/Trans Man),Technical/community college,46,White,No,Full-Time,28,2.0,3.0,2.0,3.0,1,0,google_search,icon,high_reliability
+60bb9dd521d84c33662850ae,484.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),33,White,No,Full-Time,31,2.0,3.0,3.0,2.0,1,3,google_search,icon,high_reliability
+57698d52688a5c00018d958d,634.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),65,White,No,Part-Time,65,3.0,2.0,2.0,2.0,1,1,google_search,number,low_reliability
+6534cceb3847273f3c9b8239,822.0,Woman (including Trans Female/Trans Woman),Technical/community college,68,White,No,Part-Time,94,2.0,3.0,3.0,1.0,1,0,google_search,domain,high_reliability
+5f7d89e68e20522626a6e862,247.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),36,White,No,Full-Time,33,1.0,2.0,2.0,1.0,1,2,bing,icon,low_reliability
+66685b8a31b015ff1167348f,607.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,51,White,No,Full-Time,33,2.0,1.0,4.0,2.0,1,0,google_search,domain,high_reliability
+676055469b245b53e81358d0,426.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,21,White,Yes,"Not in paid work (e.g. homemaker', 'retired or disabled)",39,2.0,2.0,3.0,1.0,1,1,google_search,number,original
+5ade558c066c510001d43615,182.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,42,White,No,Full-Time,30,3.0,2.0,3.0,2.0,1,1,google_search,domain,high_reliability
+6116e4eaa383c256f8253754,597.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),39,White,No,Full-Time,71,3.0,3.0,3.0,2.0,1,2,google_search,icon,high_reliability
+5d3821f0ddea5a0001757f93,443.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),61,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",46,2.0,2.0,2.0,1.0,1,0,google_search,number,low_reliability
+5bdf514805ba8e0001965d25,352.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),45,White,Yes,Full-Time,33,2.0,2.0,3.0,1.0,1,1,google_search,icon,low_reliability
+5953668fb2e8430001ea478f,840.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),40,White,No,Full-Time,134,3.0,3.0,2.0,3.0,2,2,google_search,number,high_reliability
+66684184ca1b579ea53e2001,175.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),36,White,No,Full-Time,25,3.0,2.0,3.0,2.0,1,0,google_search,domain,high_reliability
+58f4a7947b2e410001c2edde,1150.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,66,White,No,Full-Time,96,3.0,3.0,3.0,2.0,1,1,google_search,domain,high_reliability
+5d87a74208667b0001eff922,515.0,Man (including Trans Male/Trans Man),Technical/community college,55,White,No,Full-Time,53,2.0,2.0,3.0,1.0,2,2,duckduckgo,number,high_reliability
+667c6c4d389d8bd57e2aa7ea,1322.0,Man (including Trans Male/Trans Man),Doctorate degree (PhD/other),62,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",173,2.0,1.0,4.0,1.0,1,2,google_search,number,high_reliability
+67696d49d386c9789b03b1da,469.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),59,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",55,3.0,2.0,3.0,2.0,2,1,google_search,domain,high_reliability
+66c5ee0d624ca2722eebfa1c,335.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,22,White,Yes,Part-Time,37,2.0,2.0,2.0,1.0,1,5,google_search,icon,high_reliability
+673e6a5cd5e5d79d03cae5e9,423.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),33,Black,Yes,Full-Time,41,3.0,3.0,3.0,1.0,1,0,google_search,domain,high_reliability
+5bd2034025db7b000178ad8a,945.0,Man (including Trans Male/Trans Man),Technical/community college,66,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",103,2.0,1.0,3.0,1.0,1,0,google_search,icon,low_reliability
+665f3e69f83003c1df913675,191.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),28,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",31,2.0,1.0,2.0,2.0,1,0,google_search,number,original
+5eef8f2639386728358b8c1b,215.0,Non-binary (would like to give more detail),Undergraduate degree (BA/BSc/other),24,White,No,Full-Time,34,1.0,2.0,1.0,2.0,1,3,google_search,icon,original
+5ab782fe47a9f70001539d00,442.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),60,White,No,Full-Time,48,3.0,2.0,3.0,2.0,1,2,google_search,number,high_reliability
+665ddf309813ddc0869e8780,535.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),69,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",64,2.0,2.0,3.0,2.0,1,0,google_search,domain,low_reliability
+613b5d07f0d1846c10d41075,304.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,38,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",35,3.0,2.0,3.0,1.0,1,0,google_search,domain,high_reliability
+5d7fea714477a000012cc297,548.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),54,White,No,Part-Time,54,2.0,2.0,4.0,2.0,1,1,google_search,icon,original
+5eec48a2a0a86044492efa67,283.0,Non-binary (would like to give more detail),High school diploma/A-levels,27,White,DATA_EXPIRED,Unemployed (and job seeking),50,1.0,4.0,1.0,1.0,2,1,google_search,icon,low_reliability
+6762a6c453dc00bbd597daad,291.0,Man (including Trans Male/Trans Man),Technical/community college,34,White,No,Full-Time,28,2.0,2.0,2.0,2.0,1,0,google_search,icon,high_reliability
+66b507cc1a7e164991afbe17,475.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),25,Black,No,Full-Time,98,1.0,3.0,3.0,1.0,1,0,google_search,number,high_reliability
+6384fc5695a4edef691103c0,1189.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),41,White,No,Full-Time,27,3.0,2.0,3.0,3.0,1,1,google_search,icon,low_reliability
+6718ecd8d934d1c1489df674,393.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,57,White,No,Full-Time,41,2.0,2.0,1.0,1.0,1,1,google_search,domain,low_reliability
+62c5c6242a3b67d9e5c8397e,203.0,Man (including Trans Male/Trans Man),Technical/community college,37,White,No,Full-Time,21,3.0,2.0,3.0,1.0,1,1,duckduckgo,domain,high_reliability
+648978eef0a4e73b67c9c153,617.0,Woman (including Trans Female/Trans Woman),Technical/community college,68,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",58,1.0,2.0,2.0,1.0,1,0,google_search,domain,original
+6103082117238ae6d0c3e805,1175.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),34,White,No,Full-Time,126,2.0,3.0,3.0,2.0,1,1,google_search,number,original
+67d9fd7ad09a3cfeec820358,746.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),51,White,No,Full-Time,45,3.0,2.0,3.0,3.0,2,3,google_search,icon,original
+5c18d9a3efc84e0001fe4aee,434.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),47,White,No,Full-Time,45,2.0,2.0,2.0,1.0,1,1,google_search,number,original
+6658e2cb395c02efada6a7a1,422.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),35,White,No,Part-Time,64,2.0,2.0,2.0,2.0,1,0,google_search,domain,high_reliability
+5e27fdd75ade0ba21df12828,531.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,56,White,No,Full-Time,132,1.0,2.0,2.0,1.0,1,0,google_search,domain,high_reliability
+63e527f004bfdf780a056741,240.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,43,White,No,Full-Time,39,2.0,1.0,2.0,1.0,1,0,google_search,number,high_reliability
+6824ca9431d5202089ce433d,758.0,Man (including Trans Male/Trans Man),Technical/community college,61,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",75,3.0,1.0,3.0,1.0,1,0,google_search,icon,original
+664a0d8b5ef52adae600c9fa,328.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),55,White,No,Full-Time,26,3.0,2.0,2.0,1.0,1,2,google_search,icon,low_reliability
+672b24390a9c197eb61f2f72,274.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),53,White,DATA_EXPIRED,Full-Time,44,2.0,2.0,2.0,1.0,1,0,google_search,icon,low_reliability
+5cfbf333ac28dd00196e807b,779.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),52,White,No,Unemployed (and job seeking),141,2.0,3.0,2.0,2.0,1,2,google_search,icon,low_reliability
+6720fbc84253185973cbe564,393.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,36,White,No,Full-Time,78,2.0,1.0,1.0,1.0,1,0,google_search,icon,original
+631f8ac6a3465a389d2a398c,352.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),42,White,No,Full-Time,37,1.0,1.0,5.0,1.0,1,0,google_search,domain,original
+6658cae18f6f9dd68d0401a1,5519.0,Man (including Trans Male/Trans Man),Technical/community college,43,White,No,Full-Time,84,3.0,1.0,3.0,2.0,2,0,google_search,icon,original
+5d48673efef71c0016d8bf40,631.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),71,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",62,2.0,2.0,3.0,2.0,1,0,google_search,icon,original
+5ef352ac6182fb0853b532c7,797.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,57,White,No,Part-Time,49,3.0,3.0,4.0,1.0,1,2,google_search,number,high_reliability
+5e7fa0e918b10804bb87eb63,550.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),53,White,No,Full-Time,83,3.0,3.0,3.0,3.0,1,2,google_search,icon,original
+66784c32524d51faa546901b,281.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),48,White,No,Full-Time,42,2.0,2.0,2.0,2.0,1,0,google_search,icon,low_reliability
+5ea0b332440c6a0a2b78b2df,1365.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),78,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",79,3.0,2.0,3.0,1.0,1,0,google_search,number,high_reliability
+5b1d5fabbdf4e10001638a19,507.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),32,White,No,Full-Time,37,2.0,2.0,3.0,1.0,1,1,google_search,icon,low_reliability
+62b0702670857c45c05cdc4f,232.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,37,White,No,Full-Time,32,2.0,1.0,2.0,2.0,1,2,google_search,domain,low_reliability
+62e03459db241242dda5b779,350.0,Man (including Trans Male/Trans Man),Technical/community college,39,White,No,Full-Time,42,2.0,2.0,2.0,1.0,1,1,google_search,number,high_reliability
+641360c2d049750e77c9a34a,443.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),32,White,No,Part-Time,46,3.0,2.0,3.0,1.0,1,1,google_search,number,original
+6367e0db54b21863c92a66bc,548.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),55,White,No,Part-Time,57,2.0,1.0,2.0,1.0,1,0,google_search,number,original
+6813885e4fa46f733a3ebcc3,505.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),31,White,No,Full-Time,55,2.0,2.0,3.0,2.0,1,2,google_search,domain,low_reliability
+5d192384c1e685001a907257,1263.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,36,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",48,3.0,2.0,3.0,1.0,1,0,google_search,icon,original
+5e99b08a24927e000a418025,414.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),76,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",67,3.0,3.0,3.0,2.0,3,2,google_search,domain,original
+6717c466a1a5d0cb15bca12e,825.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),31,Mixed,No,Full-Time,65,1.0,3.0,3.0,1.0,1,0,google_search,icon,original
+66f46a8682979653eadb837f,818.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),64,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",100,2.0,1.0,2.0,1.0,1,0,google_search,number,high_reliability
+6718f3da6089b5378740db26,409.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),27,Black,No,Full-Time,64,2.0,3.0,3.0,1.0,1,0,google_search,domain,low_reliability
+664a5be05bc29332beb2fced,433.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),42,White,No,Full-Time,52,2.0,2.0,2.0,2.0,1,2,google_search,domain,high_reliability
+582468295f4d1c0001c7c467,466.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),31,Asian,No,Full-Time,54,2.0,2.0,3.0,1.0,1,3,google_search,number,high_reliability
+5b51c33d026602000178b5ec,240.0,Woman (including Trans Female/Trans Woman),Technical/community college,42,White,No,Full-Time,41,1.0,2.0,2.0,1.0,1,0,google_search,domain,low_reliability
+659d52af923c07a8e1aac79a,357.0,Woman (including Trans Female/Trans Woman),Technical/community college,46,White,No,Full-Time,69,3.0,1.0,1.0,1.0,1,0,google_search,number,high_reliability
+66295e015fdaa405a56cdfdf,411.0,Man (including Trans Male/Trans Man),Technical/community college,65,White,No,Part-Time,61,1.0,1.0,1.0,1.0,1,0,bing,domain,original
+60d05b7b9a1a71918f27b9ef,428.0,Non-binary (would like to give more detail),Undergraduate degree (BA/BSc/other),38,White,DATA_EXPIRED,Full-Time,34,3.0,2.0,3.0,2.0,1,0,google_search,number,high_reliability
+60ae648439ae911bc987c73f,345.0,Man (including Trans Male/Trans Man),Doctorate degree (PhD/other),73,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",38,3.0,2.0,3.0,3.0,1,1,google_search,number,original
+5cb036f10f8f9800198a79b8,185.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,32,White,Yes,"Not in paid work (e.g. homemaker', 'retired or disabled)",42,2.0,3.0,2.0,3.0,1,0,google_search,icon,high_reliability
+64836f73720796518f9b2843,994.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),60,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",117,3.0,2.0,3.0,2.0,2,1,google_search,domain,high_reliability
+62c421e8a63143ac6dc843cc,322.0,Woman (including Trans Female/Trans Woman),Technical/community college,43,White,No,Full-Time,30,2.0,2.0,2.0,2.0,1,0,google_search,number,low_reliability
+5c93e5293a673a0001869096,449.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),78,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",31,2.0,2.0,2.0,1.0,1,0,google_search,icon,low_reliability
+63cedc92cb08f473e34c77ff,594.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,38,White,No,Full-Time,29,2.0,2.0,2.0,1.0,1,1,google_search,domain,original
+5d1896423dde7a00151c2d3d,5173.0,Non-binary (would like to give more detail),Graduate degree (MA/MSc/MPhil/other),52,Other,No,Full-Time,97,4.0,3.0,3.0,4.0,1,4,google_search,icon,high_reliability
+6658b68819546bf4a7e5459b,494.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),41,White,No,Full-Time,49,2.0,3.0,3.0,2.0,1,0,google_search,domain,low_reliability
+5f40c670f10f171ff50afe48,534.0,Woman (including Trans Female/Trans Woman),Doctorate degree (PhD/other),31,White,No,Full-Time,38,2.0,3.0,2.0,1.0,1,3,google_search,number,original
+5ca0b46e8265280015164984,937.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,56,White,No,Part-Time,49,2.0,2.0,2.0,1.0,1,0,google_search,domain,low_reliability
+5e9375259c9687000b26ec11,377.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),37,White,DATA_EXPIRED,Unemployed (and job seeking),38,2.0,3.0,3.0,2.0,1,1,google_search,domain,high_reliability
+600a878fa6fbbf1ba60bea36,514.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),55,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",45,3.0,2.0,3.0,2.0,1,1,google_search,icon,low_reliability
+5edfe8300b4b53308b653387,448.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,31,White,DATA_EXPIRED,Full-Time,47,1.0,1.0,1.0,1.0,1,0,google_search,icon,original
+66484cfc664a1d8dd22f2fcf,780.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),65,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",54,2.0,1.0,3.0,1.0,1,2,google_search,icon,low_reliability
+62fb8f68f98a42cbbbe0acd2,273.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),28,Asian,No,Full-Time,38,1.0,2.0,2.0,1.0,1,2,google_search,domain,low_reliability
+6648b380adcc8b522c401d27,292.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),56,White,No,Part-Time,46,3.0,3.0,2.0,2.0,1,2,google_search,icon,original
+5764ed3a0f349f0007891d51,273.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),56,White,No,Part-Time,48,1.0,1.0,1.0,1.0,1,0,google_search,domain,high_reliability
+65a7df405cbda3869eba63b4,398.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),36,Other,No,Full-Time,35,2.0,2.0,3.0,2.0,1,2,google_search,number,original
+55d51a6b8ce09000127d4821,390.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),36,White,No,Full-Time,30,2.0,2.0,2.0,1.0,1,1,google_search,domain,high_reliability
+63e5665b49cf3cdbd54ea57b,838.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),54,White,No,Full-Time,46,3.0,2.0,3.0,2.0,1,2,google_search,domain,original
+5a1dcd14f2e3460001edcabf,338.0,Man (including Trans Male/Trans Man),Don't know / not applicable,61,White,No,Full-Time,33,1.0,1.0,1.0,1.0,1,1,google_search,icon,low_reliability
+5a6879cdc0d8360001081410,655.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),79,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",61,3.0,2.0,3.0,2.0,2,1,google_search,domain,original
+60d20bdca2934c2104798fff,499.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),42,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",44,1.0,3.0,2.0,1.0,1,0,duckduckgo,domain,low_reliability
+5af4579eb625f70001e0cfad,578.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),47,White,No,Full-Time,33,2.0,2.0,3.0,1.0,1,0,google_search,icon,low_reliability
+66dc52d4479160da542d911b,1697.0,Man (including Trans Male/Trans Man),Technical/community college,81,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",96,1.0,1.0,2.0,1.0,1,4,google_search,number,high_reliability
+616c176e3053a05aac471aa9,1326.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,74,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",695,3.0,3.0,1.0,1.0,1,0,google_search,domain,low_reliability
+6771634f533fa1cf9818e4e6,1738.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),23,White,No,Unemployed (and job seeking),31,3.0,2.0,3.0,3.0,2,1,google_search,icon,original
+6148e1e0c1a60baf79c41d59,313.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),38,White,No,Part-Time,40,2.0,1.0,1.0,1.0,2,1,google_search,icon,high_reliability
+5f87ec72bcee242284725d55,592.0,Woman (including Trans Female/Trans Woman),Technical/community college,68,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",143,3.0,3.0,3.0,2.0,1,3,google_search,number,original
+5e5f8c16394d082c15a4e93a,1503.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),65,White,No,Part-Time,62,3.0,3.0,3.0,2.0,1,3,duckduckgo,icon,low_reliability
+563f734bcbd4c60005dc9442,268.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),52,White,No,Full-Time,47,1.0,1.0,1.0,1.0,1,0,google_search,domain,high_reliability
+6367a6adb376bcde64f98559,583.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),56,White,No,Full-Time,51,3.0,4.0,3.0,1.0,1,2,google_search,domain,high_reliability
+5ecb8ed5b18cd7000cc83552,855.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),38,White,No,Due to start a new job within the next month,42,3.0,2.0,4.0,2.0,1,0,google_search,icon,high_reliability
+66472012c86df53542876f2a,316.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,50,White,No,Full-Time,40,4.0,4.0,4.0,3.0,1,0,google_search,number,low_reliability
+6125646031b73d8171421e7c,432.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),44,White,No,Full-Time,33,2.0,3.0,2.0,2.0,1,2,google_search,domain,low_reliability
+606ca47dac67cbdff9177d6b,740.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),52,White,No,Full-Time,81,2.0,2.0,2.0,2.0,1,2,google_search,icon,high_reliability
+59a761ca1363d90001676931,240.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),62,White,No,Part-Time,41,3.0,2.0,3.0,1.0,1,4,google_search,domain,original
+5eaeb7b38955ea0009bd605d,348.0,Man (including Trans Male/Trans Man),Technical/community college,49,White,No,Full-Time,26,2.0,2.0,2.0,3.0,1,0,google_search,number,high_reliability
+632c673f8b99c86ac2fba537,245.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),52,White,No,Full-Time,29,3.0,3.0,3.0,2.0,1,0,google_search,number,original
+5d0e091ccd9c9300191cb9c9,884.0,Woman (including Trans Female/Trans Woman),Technical/community college,35,Mixed,No,Full-Time,48,2.0,1.0,2.0,3.0,1,0,google_search,number,high_reliability
+6766bb0266b32084c8c2afd6,1237.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),77,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",68,3.0,1.0,3.0,1.0,1,0,duckduckgo,number,low_reliability
+67d1d172e049a486152a5ce9,1004.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),36,Black,No,Part-Time,93,3.0,3.0,3.0,2.0,2,2,google_search,icon,low_reliability
+5fb25a7e5960a87fb627c12b,594.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),79,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",77,3.0,2.0,2.0,2.0,4,3,duckduckgo,domain,original
+67d805b0f020d4f6a1ec25e3,541.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),50,White,No,Full-Time,89,2.0,2.0,3.0,1.0,1,2,google_search,domain,low_reliability
+5970ccd08df9300001dab39d,388.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),31,White,No,Full-Time,19,1.0,1.0,3.0,1.0,1,2,google_search,number,original
+67c8320847fef3b9ab9bfe4d,492.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),47,White,No,Part-Time,38,2.0,3.0,3.0,2.0,1,2,google_search,number,low_reliability
+5e15d85bd62abeba42692ed3,3651.0,Woman (including Trans Female/Trans Woman),Technical/community college,57,White,No,Other,88,3.0,2.0,3.0,2.0,1,1,google_search,domain,low_reliability
+5ba22638474398000172c47b,613.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),31,White,No,Full-Time,55,2.0,1.0,3.0,2.0,1,0,google_search,number,low_reliability
+67657496bf49edcdd8ceb8a4,1177.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),24,White,No,Part-Time,35,3.0,1.0,3.0,1.0,1,0,google_search,domain,original
+5c72aec2aa7a7700018f25c8,748.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),63,White,No,Full-Time,54,3.0,2.0,3.0,2.0,1,2,google_search,domain,high_reliability
+5d6eb94fb861b60001e7760c,519.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),35,White,No,Full-Time,46,1.0,2.0,2.0,1.0,1,0,google_search,number,high_reliability
+5f0b339b48213f430a2e548d,368.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),39,White,No,Full-Time,47,2.0,2.0,5.0,2.0,1,0,google_search,domain,high_reliability
+656c97dad85d1ebbb4fa93f3,291.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),32,White,No,Full-Time,32,2.0,3.0,2.0,2.0,1,3,google_search,number,low_reliability
+5af1a4bc6e136b0001411714,724.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),52,White,Yes,Full-Time,76,2.0,3.0,2.0,1.0,1,3,google_search,domain,high_reliability
+5e480e306f7753000b908cb2,1078.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),70,White,DATA_EXPIRED,"Not in paid work (e.g. homemaker', 'retired or disabled)",71,2.0,2.0,3.0,2.0,1,2,google_search,icon,original
+5dc97b86f375a969573c2c7a,363.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),26,Asian,No,Full-Time,58,1.0,1.0,1.0,1.0,1,1,google_search,icon,low_reliability
+62e15cc80e4bd2ad93f10f5e,393.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,31,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",59,3.0,3.0,2.0,2.0,1,1,google_search,domain,original
+595a4437caff060001c0f176,689.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,60,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",91,2.0,1.0,2.0,2.0,1,1,google_search,domain,original
+5e56584b888eb7000a1acb2b,426.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),34,White,No,Full-Time,24,1.0,1.0,1.0,1.0,1,0,google_search,domain,high_reliability
+562cd833733ea000111632ba,474.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),66,White,No,Full-Time,45,1.0,2.0,2.0,1.0,3,0,google_search,number,original
+62a2548381f399e5f4f52746,1224.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),52,White,No,Full-Time,47,3.0,3.0,3.0,3.0,1,0,google_search,number,low_reliability
+647849063b9fd9be24803727,393.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),40,Black,No,Full-Time,76,2.0,2.0,2.0,1.0,1,0,google_search,domain,low_reliability
+63d141f040c855b7fb494d13,328.0,Woman (including Trans Female/Trans Woman),Technical/community college,33,White,No,Full-Time,35,1.0,2.0,1.0,1.0,1,2,google_search,number,low_reliability
+5cfe7e8bc2acc60001196300,238.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,42,White,No,Full-Time,36,2.0,1.0,1.0,1.0,1,1,google_search,icon,high_reliability
+62a12aee913c1c1a20613418,310.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,28,White,No,Unemployed (and job seeking),29,2.0,3.0,3.0,1.0,1,0,google_search,number,high_reliability
+6319fe78b47336fe7e05230c,855.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),60,White,No,Full-Time,53,3.0,3.0,3.0,2.0,2,1,google_search,number,high_reliability
+56b2274798d0de000cd6373c,537.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),41,White,No,Part-Time,104,2.0,2.0,2.0,1.0,1,0,google_search,icon,low_reliability
+6061ef11da123a1d9e55c6c8,1288.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),42,White,Yes,Full-Time,35,3.0,3.0,3.0,2.0,1,2,google_search,number,low_reliability
+5c5b66cb3312f1000112f694,456.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),35,White,No,Full-Time,72,2.0,1.0,2.0,2.0,1,0,google_search,icon,low_reliability
+657b2d22191dda04598ef38b,273.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,53,White,No,Full-Time,59,2.0,3.0,2.0,2.0,1,2,google_search,domain,low_reliability
+663f7196a07afa04b277db38,689.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,58,White,No,Full-Time,110,1.0,1.0,1.0,1.0,1,1,google_search,icon,original
+64047099984bd91b7b0dff1f,302.0,Woman (including Trans Female/Trans Woman),Technical/community college,30,White,Yes,Full-Time,29,3.0,2.0,3.0,1.0,1,2,google_search,number,original
+61646e7ec3accfb9d8334ad5,361.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),34,White,DATA_EXPIRED,Full-Time,30,2.0,2.0,2.0,2.0,2,2,google_search,domain,high_reliability
+665b1c70895ff62a86e1483e,463.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,41,White,No,Full-Time,55,2.0,2.0,3.0,2.0,2,0,google_search,number,original
+66a4f444bf2aa08e4e735916,253.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,27,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",38,1.0,1.0,1.0,1.0,1,0,google_search,domain,original
+5e83425144753905a3a17ad8,3154.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),50,White,No,Full-Time,327,3.0,2.0,2.0,1.0,2,0,google_search,domain,original
+5a453d59b77a5000014a85c7,397.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),46,White,No,Full-Time,35,1.0,1.0,3.0,1.0,1,0,google_search,icon,original
+5efca11992bb0d06c28f4bd3,276.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),67,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",50,1.0,1.0,2.0,1.0,1,0,google_search,domain,low_reliability
+5f0049efc573a300096568f7,946.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),66,White,No,Full-Time,100,2.0,2.0,2.0,3.0,1,0,google_search,domain,original
+5e89ec793c01b3685a00bb12,347.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),46,White,No,Full-Time,38,2.0,2.0,2.0,2.0,1,2,google_search,domain,original
+5ebe8a7aa71efe03ad4b5e62,247.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,47,White,No,Full-Time,29,1.0,3.0,2.0,1.0,1,2,google_search,domain,original
+5d389202459755001992a0f2,1012.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),35,White,Yes,Full-Time,32,1.0,1.0,1.0,2.0,1,1,google_search,icon,original
+667a7ab2a6179deb78e9dd1a,504.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),54,White,No,Full-Time,42,3.0,3.0,3.0,3.0,1,1,google_search,number,original
+5af6e439672ea800010d4e92,711.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),52,White,No,Full-Time,140,3.0,2.0,3.0,2.0,1,0,google_search,icon,high_reliability
+5df03fabc1ef790aa5595f8f,405.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),46,Mixed,No,Full-Time,40,2.0,2.0,5.0,2.0,1,1,google_search,number,high_reliability
+66e2891246b64bc2c52650b0,387.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,60,White,No,Full-Time,71,2.0,2.0,1.0,1.0,1,1,google_search,number,low_reliability
+66b7c834a4a9c5861ece0058,294.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),53,White,No,Full-Time,34,2.0,2.0,2.0,2.0,1,1,google_search,icon,original
+59f6f51505d1d60001f14418,1274.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),72,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",64,3.0,3.0,3.0,1.0,1,1,google_search,domain,low_reliability
+5afe7c9196a88e0001ff4b9d,536.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),31,White,Yes,"Not in paid work (e.g. homemaker', 'retired or disabled)",32,1.0,1.0,2.0,1.0,1,1,google_search,number,low_reliability
+680ff97e33f78fe59de472da,698.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),64,White,No,Full-Time,37,3.0,3.0,3.0,1.0,1,0,google_search,number,original
+5c8b65c3e65fc600177b4a1a,383.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,64,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",42,1.0,1.0,1.0,1.0,1,0,google_search,icon,high_reliability
+66e42249ff3f1be588b9bf04,495.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),63,White,No,Full-Time,43,1.0,1.0,1.0,1.0,1,1,google_search,icon,original
+678651bac880c33c924460df,518.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),49,White,No,Part-Time,97,2.0,2.0,3.0,1.0,1,2,google_search,domain,high_reliability
+67615504d7aab316104bff84,782.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),38,White,DATA_EXPIRED,Full-Time,109,4.0,3.0,4.0,4.0,1,1,google_search,domain,low_reliability
+5bce39ceb8bc680001c67555,408.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),29,Black,No,Full-Time,28,2.0,3.0,2.0,1.0,2,2,google_search,number,low_reliability
+5f0477b44a7abf086ad33018,525.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),26,Mixed,No,Full-Time,34,3.0,3.0,3.0,2.0,1,0,google_search,domain,high_reliability
+5ed9ee3afd7ffe59917d3dfa,277.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),33,White,No,Full-Time,30,3.0,2.0,3.0,1.0,1,0,google_search,icon,high_reliability
+60cf430b268c68b5ec816855,384.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),24,White,No,Full-Time,31,2.0,2.0,2.0,1.0,1,1,google_search,domain,high_reliability
+677ac7be55c52d7cb7a35667,516.0,Woman (including Trans Female/Trans Woman),Technical/community college,32,White,No,Full-Time,46,2.0,1.0,3.0,1.0,1,1,google_search,number,high_reliability
+664a6472a2f4123353fb3d83,536.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),55,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",62,2.0,2.0,3.0,1.0,1,0,google_search,number,original
+5d24e4ba5018e900158d31f1,279.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),35,White,No,Full-Time,29,2.0,2.0,2.0,1.0,2,1,google_search,number,high_reliability
+63beebaa4c5884797ff00a98,448.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,74,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",54,3.0,3.0,4.0,2.0,1,0,google_search,number,original
+634d7a50d2ec41a9e0998f8d,367.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,36,White,DATA_EXPIRED,Full-Time,47,1.0,2.0,2.0,2.0,1,1,google_search,domain,high_reliability
+6228bb4a2d9521a055debb4a,990.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),61,White,No,Full-Time,212,2.0,2.0,4.0,3.0,3,2,google_search,icon,high_reliability
+5fe778f1116bbf5ae29431b2,291.0,Man (including Trans Male/Trans Man),Technical/community college,46,White,No,Full-Time,33,2.0,2.0,2.0,1.0,1,0,duckduckgo,domain,high_reliability
+66a79806a27648e44299b153,1258.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),48,White,No,Part-Time,64,3.0,3.0,3.0,2.0,1,0,google_search,number,high_reliability
+5d1904fd8b97090001215bdf,367.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),57,White,No,Part-Time,63,2.0,1.0,3.0,1.0,1,0,google_search,domain,high_reliability
+5c852c65f8e57d00158a12ca,1075.0,Woman (including Trans Female/Trans Woman),Doctorate degree (PhD/other),68,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",59,4.0,4.0,3.0,2.0,2,2,google_search,icon,original
+60f5df9db9380d875c320307,436.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),61,White,No,Full-Time,67,3.0,4.0,3.0,2.0,2,3,google_search,domain,original
+677c455afc1062faab5b165e,1501.0,Man (including Trans Male/Trans Man),Technical/community college,43,White,No,Full-Time,40,1.0,3.0,2.0,1.0,1,2,google_search,domain,high_reliability
+603659d5c391045d1e4b332b,811.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),23,White,Yes,Full-Time,50,3.0,3.0,4.0,2.0,1,2,google_search,number,low_reliability
+56e68157f6ed90000ba5855c,1299.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),37,White,Yes,"Not in paid work (e.g. homemaker', 'retired or disabled)",51,3.0,2.0,3.0,1.0,1,1,google_search,number,low_reliability
+5ccd9718b6494d0001dee261,583.0,Woman (including Trans Female/Trans Woman),Don't know / not applicable,30,White,No,Part-Time,170,2.0,2.0,2.0,1.0,1,0,google_search,icon,high_reliability
+6704539fe462b87182866f14,923.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),43,White,Yes,Full-Time,24,3.0,2.0,2.0,2.0,1,2,duckduckgo,number,high_reliability
+63d3fd5916541b5031bd4a3f,556.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),43,White,Yes,Full-Time,138,1.0,2.0,3.0,1.0,1,1,google_search,domain,high_reliability
+678ce1ebd56c85701ebce209,331.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),48,White,No,Full-Time,38,2.0,2.0,3.0,2.0,1,2,google_search,icon,low_reliability
+67403de187ba0c277a19a258,333.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),53,White,No,Full-Time,58,1.0,1.0,1.0,1.0,1,0,google_search,number,original
+5d3c480f2dc7f70001f00c87,488.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),56,White,No,Part-Time,52,2.0,2.0,2.0,2.0,2,0,google_search,icon,high_reliability
+6697dd57c4db95eac07db01a,566.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,58,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",76,2.0,2.0,2.0,2.0,1,2,google_search,domain,low_reliability
+612399c71548ff3b47e406e8,422.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,52,White,No,Full-Time,75,2.0,2.0,3.0,2.0,1,0,google_search,icon,original
+6665f451f540ce3f2b051bb0,1221.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),44,White,No,Full-Time,47,3.0,2.0,3.0,1.0,1,2,duckduckgo,icon,high_reliability
+5f0f59f3bc44f50f92845a05,374.0,Woman (including Trans Female/Trans Woman),Technical/community college,44,White,Yes,Full-Time,29,4.0,3.0,4.0,2.0,1,0,google_search,icon,original
+66759b71393cdf8c9276b688,517.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),47,White,No,Full-Time,47,2.0,2.0,3.0,1.0,1,0,google_search,number,low_reliability
+5ec2c5dbdaeeba0d780560a5,577.0,Man (including Trans Male/Trans Man),Technical/community college,35,White,No,Full-Time,41,2.0,1.0,2.0,1.0,1,0,google_search,domain,original
+676055d717c5c46b0800f479,510.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),39,White,No,Full-Time,31,4.0,5.0,3.0,4.0,1,1,google_search,icon,high_reliability
+5da18dd5f362630015ee5f72,245.0,Woman (including Trans Female/Trans Woman),Technical/community college,46,White,Yes,Part-Time,37,2.0,3.0,3.0,1.0,1,2,google_search,domain,high_reliability
+67a54503a9d38ce3140394eb,1328.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),54,White,No,Full-Time,47,3.0,3.0,4.0,2.0,1,2,duckduckgo,number,original
+68d63d1da48c72cd003cacf3,527.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),38,Prefer not to say,No,Due to start a new job within the next month,45,2.0,1.0,4.0,2.0,1,1,google_search,number,original
+6717d0f52cc5e0a7f13b596a,565.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),44,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",85,3.0,2.0,3.0,2.0,1,2,google_search,domain,low_reliability
+574027971407a30010773dd7,405.0,Woman (including Trans Female/Trans Woman),Technical/community college,36,Mixed,No,Full-Time,41,2.0,2.0,3.0,1.0,1,1,google_search,domain,low_reliability
+66b1007285ffafd0e80094a1,597.0,Man (including Trans Male/Trans Man),Technical/community college,34,White,No,Full-Time,40,2.0,2.0,3.0,1.0,1,2,google_search,icon,high_reliability
+5ec11bc32098320117b00b57,231.0,Woman (including Trans Female/Trans Woman),Technical/community college,35,White,No,Full-Time,38,2.0,2.0,2.0,2.0,1,2,google_search,domain,original
+5e7c8696aaaa890009345427,188.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),48,White,No,Full-Time,28,2.0,3.0,2.0,2.0,2,0,google_search,number,low_reliability
+671500b20d2459e3859f2273,555.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),64,White,No,Part-Time,49,3.0,3.0,3.0,1.0,2,0,google_search,domain,original
+66fbc35985ff22e3e81fc62a,824.0,Man (including Trans Male/Trans Man),Technical/community college,64,White,No,Part-Time,87,2.0,3.0,3.0,2.0,3,0,google_search,icon,original
+644fdc8d0d748ff99020fcae,248.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),57,White,No,Full-Time,36,3.0,3.0,2.0,3.0,1,0,google_search,domain,original
+58ff31a1d10e2b000108579e,899.0,Man (including Trans Male/Trans Man),Doctorate degree (PhD/other),57,White,No,Other,71,3.0,2.0,3.0,2.0,1,1,duckduckgo,number,low_reliability
+65b7b0e4e6fa7d632205b4b6,319.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,35,White,No,Part-Time,49,2.0,1.0,2.0,1.0,2,2,google_search,number,high_reliability
+66d44140d05dc9d8c9889ed2,287.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),43,Black,No,Full-Time,47,1.0,1.0,4.0,1.0,1,3,google_search,icon,high_reliability
+601573abb16bec6457789080,469.0,Woman (including Trans Female/Trans Woman),Technical/community college,52,White,No,Full-Time,63,1.0,2.0,2.0,1.0,1,0,google_search,icon,original
+616c380ec7e2787b3631ac40,234.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),51,White,DATA_EXPIRED,Full-Time,46,2.0,4.0,2.0,1.0,1,3,google_search,domain,low_reliability
+62a338fe5f31e62c27dc5e66,290.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),36,Black,No,Full-Time,31,2.0,3.0,2.0,1.0,1,0,google_search,domain,original
+5b72d8042aeef10001972da0,146.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),31,White,No,Full-Time,19,2.0,2.0,3.0,2.0,1,0,google_search,number,original
+587b7ab8c192390001d60136,174.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),61,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",36,1.0,1.0,1.0,1.0,2,2,google_search,number,low_reliability
+67e04653f72e455c5cb22f12,650.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),66,White,No,Part-Time,62,2.0,2.0,3.0,1.0,1,0,google_search,number,high_reliability
+5d551c8c47bc73001950af8f,406.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),44,White,No,Full-Time,31,3.0,3.0,3.0,1.0,1,1,google_search,number,high_reliability
+63dab24ece887158c2adb6d7,358.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),61,White,No,Full-Time,29,2.0,2.0,2.0,2.0,1,2,google_search,domain,original
+66912c22d42ca7c3bfa92ca2,297.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),44,Black,No,Part-Time,50,1.0,1.0,1.0,1.0,2,0,google_search,domain,high_reliability
+668428453c29b72930fd521b,1185.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),54,White,No,Part-Time,94,3.0,2.0,4.0,2.0,2,2,google_search,domain,original
+6361569d32bb406b8cf7de18,193.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),56,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",32,2.0,2.0,2.0,2.0,2,2,duckduckgo,icon,high_reliability
+5d301a7c9f79cb001cdcbc91,443.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),46,White,No,Full-Time,50,1.0,2.0,3.0,1.0,1,0,google_search,icon,original
+66c60acf9f47f90473b69676,379.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),46,White,No,Full-Time,33,1.0,3.0,1.0,2.0,1,0,google_search,number,high_reliability
+648a30a2847ab1c5fa5785f8,530.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),61,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",38,1.0,1.0,1.0,1.0,1,0,google_search,domain,high_reliability
+5bdad3fa0bde32000170745b,343.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,62,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",51,1.0,1.0,1.0,1.0,1,1,google_search,icon,low_reliability
+66d5ac0c40f608a9b03017de,389.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),57,White,No,Other,41,3.0,2.0,3.0,1.0,1,0,google_search,domain,original
+54ccac0dfdf99b3a7712573d,260.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),49,White,No,Full-Time,43,1.0,1.0,1.0,1.0,1,1,google_search,number,original
+5a21800f8c1e5c0001713d89,267.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),26,White,No,Full-Time,39,1.0,2.0,2.0,1.0,1,1,google_search,icon,high_reliability
+60b8b31eb3143c92b950deba,368.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),47,White,No,Full-Time,44,2.0,2.0,3.0,1.0,1,2,google_search,number,high_reliability
+5efdacada352be1fbec58a03,224.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),29,White,No,Full-Time,34,2.0,2.0,2.0,1.0,1,0,duckduckgo,domain,high_reliability
+5942d73df8bfc00001985c3c,455.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),39,White,No,Full-Time,38,2.0,2.0,2.0,3.0,1,0,google_search,number,original
+5b5ecd4b7757ed000198d434,453.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),48,White,No,Full-Time,48,3.0,5.0,3.0,4.0,1,2,google_search,domain,high_reliability
+6749b08769e9ad43df3f085a,354.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,64,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",45,3.0,3.0,3.0,3.0,3,4,google_search,number,original
+676a86716dbe63bed7ae70a0,518.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),54,White,No,Full-Time,34,2.0,2.0,2.0,1.0,1,2,google_search,domain,low_reliability
+5eb7094fbb8ed70b61398cff,269.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),47,White,Yes,Full-Time,39,2.0,2.0,2.0,3.0,1,2,google_search,number,high_reliability
+6687ef9bb3207f5e525c1a82,183.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,24,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",31,1.0,2.0,1.0,1.0,3,1,duckduckgo,number,low_reliability
+60352bed3483fe3c04836b5e,356.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),25,White,Yes,Full-Time,36,3.0,2.0,2.0,1.0,1,1,google_search,icon,high_reliability
+66f2af1a92b699dab88d33ed,802.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),66,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",112,2.0,2.0,2.0,1.0,2,0,google_search,number,original
+603b9be389c6cf7d0dd74fd1,1087.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,38,White,No,Full-Time,77,2.0,1.0,3.0,2.0,1,1,google_search,number,high_reliability
+5b10527374db8f00013fdc57,237.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),36,White,No,Part-Time,52,2.0,2.0,2.0,1.0,2,0,google_search,number,original
+66e0184c55c6299d2c7c0101,952.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,67,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",72,3.0,2.0,3.0,2.0,1,2,bing,icon,high_reliability
+672f246d1d67d71960402ef8,696.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),33,White,No,Full-Time,47,3.0,2.0,3.0,3.0,1,3,google_search,icon,high_reliability
+5fb2ae0ca2a0228f3a257bd6,637.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),68,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",40,2.0,3.0,3.0,2.0,1,0,google_search,domain,high_reliability
+6671e82cc1fa43aced1c799a,443.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),63,White,No,Part-Time,55,2.0,2.0,3.0,2.0,1,3,google_search,domain,high_reliability
+651ab308d328995f86b262ff,513.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),52,White,No,Full-Time,46,2.0,2.0,2.0,2.0,1,0,google_search,domain,low_reliability
+5b8a73434457e80001f25697,460.0,Man (including Trans Male/Trans Man),No formal qualifications,49,White,DATA_EXPIRED,"Not in paid work (e.g. homemaker', 'retired or disabled)",61,2.0,1.0,3.0,1.0,1,3,google_search,icon,low_reliability
+628de130059d62c73466ee64,395.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),40,White,No,Full-Time,51,3.0,2.0,2.0,2.0,1,0,google_search,domain,original
+5c730ca1f674750001df8d09,367.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),35,Asian,No,Full-Time,45,1.0,2.0,3.0,1.0,1,0,google_search,icon,high_reliability
+5e1489c27855d3aa8c6b6959,287.0,Woman (including Trans Female/Trans Woman),Technical/community college,28,White,No,Full-Time,37,1.0,1.0,3.0,1.0,1,0,google_search,number,high_reliability
+639f294882a3797f77a3dd81,498.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),54,White,No,Full-Time,59,2.0,3.0,2.0,1.0,1,0,google_search,domain,high_reliability
+5c634aca9d0d7000012479a0,229.0,Man (including Trans Male/Trans Man),Technical/community college,38,White,No,Part-Time,43,2.0,3.0,3.0,1.0,3,1,google_search,number,low_reliability
+628f7669ee68aabf3930123b,1078.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),41,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",60,4.0,3.0,4.0,1.0,1,4,google_search,number,high_reliability
+660ea65b18972d0e6a14a896,621.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),59,White,No,Part-Time,191,1.0,3.0,2.0,1.0,1,0,google_search,icon,high_reliability
+673afb0e64825773fdef73ab,622.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),23,White,No,Full-Time,49,2.0,2.0,3.0,1.0,1,1,google_search,icon,high_reliability
+5ecf5a78ba30501d2ca5e34b,554.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),38,White,No,Full-Time,55,2.0,2.0,3.0,3.0,1,0,google_search,domain,original
+60aff9a6354c706f21c27da1,864.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),40,White,No,Full-Time,44,3.0,2.0,3.0,1.0,1,2,google_search,icon,original
+6658b2544c03c5e53422823b,364.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,46,White,No,Part-Time,51,2.0,2.0,3.0,2.0,1,3,google_search,icon,original
+63f11d008327663bc314b53b,798.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),60,White,No,Full-Time,92,3.0,3.0,3.0,2.0,1,4,google_search,domain,original
+5e46ff334267181cd82562e0,409.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),34,White,No,Full-Time,37,3.0,2.0,3.0,2.0,1,3,google_search,icon,high_reliability
+676556ccb7aac9ede13d73c9,847.0,Man (including Trans Male/Trans Man),Technical/community college,53,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",83,1.0,1.0,1.0,1.0,2,0,duckduckgo,domain,low_reliability
+5f0f6811a0ed4a11dbc57b79,211.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),47,Asian,No,Full-Time,38,2.0,2.0,2.0,2.0,1,1,google_search,domain,original
+66e484aa361904c9801c6837,590.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),63,White,No,Part-Time,47,4.0,2.0,4.0,3.0,1,1,google_search,number,original
+673a17c693f3e23c48322390,1310.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),30,Black,No,Full-Time,52,2.0,3.0,3.0,1.0,1,2,google_search,number,original
+60b3950b9a1de417d37bb8d2,346.0,Man (including Trans Male/Trans Man),Technical/community college,33,White,Yes,Full-Time,22,2.0,2.0,2.0,3.0,1,1,google_search,domain,high_reliability
+61362316891827226628509d,1740.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,59,Mixed,No,Full-Time,46,1.0,2.0,2.0,1.0,1,3,google_search,number,high_reliability
+62b056b6df8491744cfd6b04,873.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),26,White,Yes,Full-Time,30,3.0,2.0,3.0,1.0,1,2,google_search,domain,original
+66cf368865143e842d98389d,209.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,45,White,No,Full-Time,45,1.0,2.0,3.0,1.0,1,1,google_search,domain,high_reliability
+682b3f63d0e2c4eff64fe664,464.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),71,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",88,1.0,2.0,2.0,1.0,1,0,google_search,domain,high_reliability
+5c3cdb89c2d0b700017c6851,740.0,Woman (including Trans Female/Trans Woman),Technical/community college,34,White,No,Unemployed (and job seeking),69,2.0,2.0,1.0,1.0,2,2,google_search,domain,original
+66dca9f03d05bc3864916812,382.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),56,Asian,No,Full-Time,59,2.0,1.0,2.0,1.0,1,0,google_search,domain,high_reliability
+63e51ccb431bed8154fc6aae,809.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,40,White,No,Full-Time,44,3.0,2.0,3.0,2.0,1,0,google_search,number,high_reliability
+62e94c384f809b7d0831f4ea,478.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),35,White,No,Full-Time,28,3.0,1.0,3.0,1.0,2,2,google_search,number,high_reliability
+5d684971f5868700184eab81,221.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,42,White,No,Full-Time,47,2.0,3.0,3.0,1.0,1,1,google_search,number,low_reliability
+66d076c43e5884e2da9ba056,1032.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),43,White,No,Part-Time,66,3.0,2.0,3.0,2.0,1,1,google_search,domain,original
+5dc2d4377624401eb1894bcd,188.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),28,White,No,Full-Time,26,3.0,3.0,2.0,2.0,2,2,google_search,icon,high_reliability
+6544fed196a4a783c9887d59,230.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),36,White,No,Full-Time,33,3.0,4.0,3.0,1.0,1,2,google_search,number,low_reliability
+665abb661d3f242a05ffb7ed,1193.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),37,White,No,Full-Time,1000,1.0,2.0,2.0,1.0,2,0,google_search,icon,original
+636d39168fe0bc0570ee8da0,615.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),59,White,No,Full-Time,270,2.0,1.0,2.0,1.0,1,0,google_search,number,low_reliability
+5fb551ccab996500099ab1aa,479.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),37,Asian,No,Full-Time,42,4.0,3.0,3.0,1.0,1,1,google_search,icon,low_reliability
+5d94ce7b72b4550016906484,154.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),31,White,No,Full-Time,26,2.0,3.0,5.0,1.0,2,0,google_search,icon,original
+62a1fd297768ca1c93288d11,468.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),37,White,Yes,Full-Time,30,3.0,3.0,4.0,2.0,1,1,google_search,domain,high_reliability
+5d1c9d39ff67e3000140ca87,426.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,61,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",104,2.0,2.0,3.0,3.0,1,1,duckduckgo,icon,high_reliability
+6509de33bd1b69732d0009ab,420.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),37,White,No,Full-Time,55,2.0,2.0,2.0,1.0,1,0,google_search,number,original
+5c5d306d935f3500016f64ac,541.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),50,White,No,Full-Time,32,2.0,2.0,3.0,1.0,1,1,google_search,domain,high_reliability
+665ad886225977530cd6579c,299.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),33,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",48,2.0,2.0,2.0,1.0,1,0,google_search,number,low_reliability
+5b3b48c5b6b4410001614786,324.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),42,White,No,Full-Time,69,1.0,1.0,2.0,1.0,1,0,google_search,domain,original
+5e203085ac30fa331b586690,301.0,Woman (including Trans Female/Trans Woman),Technical/community college,32,White,Yes,Full-Time,21,3.0,3.0,3.0,2.0,1,0,google_search,number,low_reliability
+65537e14439274fe5036b4d2,618.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),38,White,No,Full-Time,89,2.0,2.0,3.0,1.0,2,0,google_search,number,high_reliability
+57c74977b23f0e000182dc3f,615.0,Woman (including Trans Female/Trans Woman),Technical/community college,35,White,No,Full-Time,36,1.0,1.0,1.0,1.0,1,0,google_search,domain,low_reliability
+5ebaa1ff940078000b52ebf4,450.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,58,White,No,Full-Time,61,2.0,2.0,1.0,1.0,1,0,google_search,icon,high_reliability
+66db5eed3a156e88aaf4ad43,602.0,Man (including Trans Male/Trans Man),High school diploma/A-levels,31,White,No,Full-Time,267,1.0,1.0,1.0,2.0,2,2,google_search,icon,original
+67a4e681cc2ffe1155e1df73,1143.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),23,White,Yes,Full-Time,69,2.0,3.0,2.0,3.0,1,0,google_search,domain,original
+5a0c4184fe645f0001e9f5dd,437.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),41,White,No,Full-Time,60,3.0,2.0,3.0,2.0,1,0,google_search,icon,original
+6120cea050e9bce18a162223,431.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),32,White,No,Full-Time,31,2.0,2.0,1.0,1.0,1,3,google_search,icon,original
+676054ef296caad582258e02,855.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),36,White,No,Other,64,2.0,1.0,4.0,1.0,2,0,google_search,number,low_reliability
+63f79034370a105d5d57d9bd,762.0,Man (including Trans Male/Trans Man),Secondary education (e.g. GED/GCSE),39,White,No,Unemployed (and job seeking),53,3.0,1.0,2.0,3.0,2,1,google_search,icon,high_reliability
+5f2bc8eff59f87677c49385c,399.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),35,White,Yes,Full-Time,43,1.0,1.0,3.0,2.0,1,2,google_search,domain,high_reliability
+5d45ed2a23a1260018201b2c,377.0,Woman (including Trans Female/Trans Woman),Technical/community college,28,White,No,Full-Time,30,1.0,1.0,2.0,1.0,1,1,google_search,domain,high_reliability
+56c893c9dfea6c000db24a52,512.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),57,White,No,Full-Time,55,3.0,2.0,2.0,1.0,1,0,google_search,domain,high_reliability
+5f04a092b712400db27ef0f3,211.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),26,Black,No,Full-Time,44,2.0,2.0,4.0,1.0,2,1,google_search,domain,original
+5aea16d3ff24e0000124b803,319.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),37,White,No,Full-Time,43,3.0,2.0,3.0,1.0,2,2,google_search,domain,high_reliability
+5a4fa20276d1c60001aa8d00,823.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,33,White,No,Full-Time,36,3.0,3.0,4.0,2.0,1,0,google_search,number,high_reliability
+627a659dc19a74aab841d292,285.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,31,White,No,Full-Time,41,1.0,1.0,1.0,1.0,1,0,google_search,domain,low_reliability
+5dacfecd95be5f0017360fe6,635.0,Man (including Trans Male/Trans Man),Technical/community college,32,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",37,2.0,1.0,1.0,2.0,1,0,google_search,icon,high_reliability
+5f1dd488e539fb7332723dba,611.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),38,White,No,Full-Time,55,3.0,3.0,4.0,4.0,1,3,google_search,domain,low_reliability
+672a798bccf085b76dd8053f,286.0,Woman (including Trans Female/Trans Woman),Technical/community college,20,Mixed,Yes,Part-Time,26,1.0,2.0,2.0,2.0,1,2,google_search,domain,low_reliability
+59451bd536b8f40001de0a83,1010.0,Woman (including Trans Female/Trans Woman),Technical/community college,42,Mixed,No,Part-Time,34,3.0,3.0,4.0,1.0,1,0,google_search,domain,high_reliability
+66635b0f4a3d5b9452f10d7f,410.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),29,Black,No,Full-Time,57,1.0,3.0,2.0,1.0,1,1,google_search,domain,original
+6274f9115634950cf5970f1c,716.0,Man (including Trans Male/Trans Man),Doctorate degree (PhD/other),45,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",148,4.0,3.0,3.0,5.0,2,1,google_search,number,high_reliability
+5d4c9a5f112f830016026939,406.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),46,White,No,Part-Time,28,2.0,1.0,2.0,1.0,1,2,google_search,icon,low_reliability
+66deaf8e2af793d68c36283d,507.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),50,White,No,Part-Time,51,2.0,2.0,2.0,1.0,1,0,google_search,domain,high_reliability
+5d445f038dd58b001afdeb32,258.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),51,White,No,Part-Time,42,2.0,2.0,2.0,2.0,1,0,google_search,domain,high_reliability
+668db0a372d0c41c15a558ba,582.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),58,White,No,Full-Time,41,1.0,1.0,2.0,1.0,1,0,google_search,domain,original
+67606c975d33dc79c280063e,341.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),23,Asian,DATA_EXPIRED,Full-Time,38,2.0,2.0,2.0,2.0,1,0,google_search,domain,original
+62d59b380be0866cf039e0ee,308.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),43,White,No,Full-Time,38,3.0,3.0,3.0,1.0,1,2,google_search,domain,high_reliability
+6658d5faab732c38533b2f1f,381.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),34,White,Yes,Full-Time,55,1.0,1.0,2.0,1.0,1,1,google_search,number,high_reliability
+62b4403257f7d42730f83394,1347.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),41,Mixed,No,Full-Time,51,3.0,3.0,3.0,2.0,1,0,google_search,icon,high_reliability
+5e5667b3e5cbf4018c99991a,446.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),44,Asian,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",42,1.0,1.0,1.0,2.0,2,0,google_search,icon,high_reliability
+616d5c54f2953f6447f27402,1501.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),62,Mixed,No,Full-Time,70,2.0,2.0,2.0,1.0,1,0,google_search,number,original
+673f091e544e7e0f26ef3e28,539.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),50,White,No,Full-Time,49,3.0,3.0,3.0,2.0,1,1,google_search,domain,original
+639844d5b2757a6f6377a69b,236.0,Woman (including Trans Female/Trans Woman),Technical/community college,52,White,No,Part-Time,46,2.0,2.0,2.0,1.0,1,1,google_search,number,low_reliability
+67168065986a302253d0342b,460.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),40,White,No,Full-Time,53,2.0,1.0,2.0,1.0,1,0,google_search,number,low_reliability
+5c5ff87f8c0552000109d7de,568.0,Woman (including Trans Female/Trans Woman),Secondary education (e.g. GED/GCSE),32,White,No,Part-Time,86,2.0,2.0,3.0,1.0,1,2,google_search,domain,high_reliability
+66edea9d406f629b67ce30b8,378.0,Man (including Trans Male/Trans Man),Graduate degree (MA/MSc/MPhil/other),32,White,No,Full-Time,27,2.0,2.0,2.0,2.0,1,0,google_search,domain,high_reliability
+60c4b404257aaacfe05b36b6,988.0,Woman (including Trans Female/Trans Woman),Undergraduate degree (BA/BSc/other),51,White,No,Full-Time,60,3.0,3.0,3.0,3.0,1,4,google_search,number,high_reliability
+5f27f6a0e13d4e05d048335f,482.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),54,White,No,Full-Time,63,3.0,2.0,4.0,1.0,1,1,google_search,icon,high_reliability
+66a90e7caa371f25183bdce2,584.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),72,White,No,"Not in paid work (e.g. homemaker', 'retired or disabled)",102,2.0,1.0,1.0,3.0,2,0,google_search,domain,original
+6765b501bf830acd8f0e20ba,1136.0,Woman (including Trans Female/Trans Woman),High school diploma/A-levels,43,White,No,Part-Time,227,3.0,2.0,3.0,2.0,1,1,google_search,number,low_reliability
+6776cc15d7dc4f99328f4621,984.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),43,White,No,Other,191,3.0,1.0,3.0,2.0,1,0,bing,number,original
+56f7e6ee35c4760006278ee0,206.0,Woman (including Trans Female/Trans Woman),Graduate degree (MA/MSc/MPhil/other),49,White,No,Full-Time,39,2.0,3.0,2.0,1.0,1,0,google_search,domain,original
+656cd9efdb298e7230d7d42b,318.0,Man (including Trans Male/Trans Man),Undergraduate degree (BA/BSc/other),53,White,No,Full-Time,38,2.0,2.0,3.0,2.0,1,1,duckduckgo,icon,low_reliability

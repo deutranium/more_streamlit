@@ -1,0 +1,45 @@
+task_var_mappings = {
+    "Task Duration": "task_duration",
+    "Number of clicks": "task_num_clicks",
+    "Number of clicks on Search Result elements": "task_num_sr_clicks",
+    "Number of clicks on AI Overview elements": "task_num_aio_clicks",
+    "Number of clicks on citation design elements": "task_num_cd_clicks",
+    "Was the show more button clicked?": "task_show_more_clicks",
+    "Number of clicks to external websites": "task_num_external_clicks",
+    "Amount of time when the cursor was on AI Overview": "task_time_aio",
+    "Amount of time when the cursor was on Search Result elements": "task_time_sr",
+    "Amount of time when the cursor was on Citation Design elements": "task_time_cd",
+    "Total amount of time when the cursor was on AI Overview and Search Results": "task_time_sr_aio",
+    "Fraction of time cursor was on Search Results": "task_time_fraction_sr",
+    "Fraction of time cursor was on AI Overview": "task_time_fraction_aio",
+    "Fraction of time cursor was on Citation Design": "task_time_fraction_cd",
+    "Number of mouse movements": "task_num_mouse_movements",
+    "Number of scrolls": "task_num_scrolls",
+    "Number of down (default direction) scrolls": "task_num_down_scrolls",
+    "Number of up scrolls": "task_num_up_scrolls",
+    "Median scroll duration across all scrolls": "task_median_scroll_duration",
+    "Median scroll duration across up scrolls": "task_median_up_scroll_duration",
+    "Median scroll duration across down scrolls": "task_median_down_scroll_duration",
+    "Median scroll distance": "task_median_scroll_distance",
+    "Median scroll distance for up scrolls": "task_median_up_scroll_distance",
+    "Median scroll distance for down scrolls": "task_median_down_scroll_distance",
+}
+
+survey_var_mappings = {
+    "Survey Duration": "survey_duration",
+    "How mentally demanding were the tasks?": "s_mental_demand",
+    "How hurried or rushed was the pace of the tasks?": "s_temporal_demand",
+    "How hard did you have to work to accomplish your level of performance?": "s_effort",
+    "How insecure, discouraged, irritated, stressed, and annoyed were you?": "s_frustration",
+    "Search Frequency": "search_freq",
+    "Information Navigation": "info_navigation",
+    "Search Engine": "search_engine",
+}
+
+dem_var_mappings = {
+    "Highest education level completed": "Education",
+    "Ethnicity (simplified)": "Ethnicity",
+    "Age": "Age",
+    "Gender": "Gender",
+    "Employment": "Employment status",
+}

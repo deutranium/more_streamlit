@@ -62,8 +62,6 @@ with st.sidebar:
             "Task Duration",
             "Number of clicks",
             "Number of clicks on Search Result elements",
-            "Number of clicks on AI Overview elements",
-            "Number of clicks on citation design elements",
         ],
     )
 
@@ -83,8 +81,6 @@ with st.sidebar:
         default=[
             "How mentally demanding were the tasks?",
             "How hurried or rushed was the pace of the tasks?",
-            "How hard did you have to work to accomplish your level of performance?",
-            "How insecure, discouraged, irritated, stressed, and annoyed were you?",
         ],
     )
 
@@ -101,9 +97,6 @@ with st.sidebar:
         default=[
             "Gender",
             "Employment",
-            "Highest education level completed",
-            "Age",
-            "Ethnicity (simplified)",
         ],
     )
 
